@@ -41,6 +41,8 @@ const createFooter = () => {
         <div>
             <a href="#" class="social-link">terms & services</a>
             <a href="#" class="social-link">privacy page</a>
+            <a href ="newsletter.html" class="social-link">Subscribe to our newsletter</a>
+            <a href ="seller.html" class="social-link">Become a seller </a>
         </div>
         <div>
             <a href="#" class="social-link">instagram</a>
